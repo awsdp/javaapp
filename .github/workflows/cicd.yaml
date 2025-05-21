@@ -20,6 +20,7 @@ jobs:
         with:
           username: awsdp
           password: D4deepth@1104
+      - name: push image to hub 
         run:
           docker push awsdp/java-app:tagname
 
