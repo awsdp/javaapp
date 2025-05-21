@@ -1,4 +1,4 @@
-Name:javaapp- cicd
+name:javaapp- cicd
 on:
   workflow_dispatch
 jobs:
